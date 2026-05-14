@@ -188,7 +188,7 @@ python main.py
 
 ## 👤 Author
 
-**Your Name**
+**Priyank**
 Aspiring Data Scientist / Analyst
 
 ---
